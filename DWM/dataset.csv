@@ -1,0 +1,16 @@
+age,income,gender,buys electronic item
+youth,high,male,no
+youth,high,male,no
+middle,high,male,yes
+senior,medium,female,yes
+senior,low,female,yes
+senior,low,male,no
+middle,low,male,yes
+youth,medium,female,yes
+youth,low,male,no
+middle,medium,female,yes
+middle,high,female,yes
+senior,high,male,no
+youth,medium,male,yes
+middle,low,female,no
+senior,medium,male,yes
